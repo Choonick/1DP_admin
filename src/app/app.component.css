@@ -1,0 +1,17 @@
+article{
+    background-color: rosybrown;
+
+}
+
+post-board{
+    background-color: skyblue;
+    /* float: left; */
+}
+
+.row .col{
+    background: yellowgreen;
+}
+
+div {
+    display: inline-block;
+}

@@ -1,0 +1,21 @@
+.row {
+    padding: 2%;
+}
+
+.row .col-list{
+    float: left;
+    width: 70%;
+}
+.row .col-post{
+    float: left;
+    width: 30%;
+    padding-left: 2%;
+}
+
+user-list{
+    width:60%;
+}
+
+main-board{
+    width:40%;
+}
